@@ -1,6 +1,7 @@
+/* navigation bar style */
 li a {
       font-family: Arial, Helvetica, sans-serif;
-      font-size: 18px;
+      font-size: 15px;
 }
 
 li a:hover{
@@ -11,18 +12,25 @@ button span:hover{
        background-color: darkgoldenrod;
        color: white;
 }
-img {
-      border-radius: 20px;
+
+/* home section style */
+#img1 {
+      border-radius: 100%;
 }
-img:hover {
+#img1:hover {
       box-shadow: 12px -12px darkgoldenrod;
 }
 h1 {
-      color: darkgoldenrod;
+    color: darkgoldenrod;
 }
-#btn-git1 a:hover{
+#btn a:hover{
       background-color: darkgoldenrod;
 }
-#btn-git2 a:hover{
-       background-color: darkgoldenrod;
+
+/* about section style */
+#img2 {
+      border-radius: 8%;
+}
+#img2:hover {
+      box-shadow: 12px -12px darkgoldenrod;
 }
