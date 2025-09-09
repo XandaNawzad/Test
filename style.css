@@ -34,6 +34,12 @@ h1 {
 #img2:hover {
       box-shadow: 12px -12px darkgoldenrod;
 }
+
+/* project section style */
+#procard:hover{
+      transform: scale(1.1);
+}
+
 /* contact style*/
 #btn1 button:hover {
       background-color: darkgoldenrod;
