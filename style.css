@@ -34,3 +34,10 @@ h1 {
 #img2:hover {
       box-shadow: 12px -12px darkgoldenrod;
 }
+/* contact style*/
+#btn1 button:hover {
+      background-color: darkgoldenrod;
+}
+form:hover {
+      background-color: lightblue;
+}
